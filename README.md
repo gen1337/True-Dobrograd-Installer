@@ -59,3 +59,24 @@
 | Port          | 3306                     |
 
 ![alt-SSSs3](https://i.imgur.com/UXceS9S.png "MariaDB")
+
+Затем сохрани (Save) и выполни вход (Open).
+
+## Настройка
+
+Сразу после установки сервера и первом подключении к нему интерфейс HeidiSQL выглядит так:
+
+![alt-SSSs21](https://i.imgur.com/6NJNklm.png "MariaDB") 
+
+Все таблицы должны содержаться в конкретной базе данных. У нас эта база данных - gmod_dobrograd, нужно её создать:
+
+![alt-SSSs2s22](https://i.imgur.com/jIBYdyO.png "MariaDB") 
+
+![alt-SSSs22322](https://i.imgur.com/qRuQWaT.png "MariaDB")  
+
+После этого можно запустить сервер. Модули, которым это нужно, создадут необходимые таблицы автоматически.
+
+![alt-SSSs22322](https://i.imgur.com/4CT5VIx.png "MariaDB")
+
+**Готово!**
+
