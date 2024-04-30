@@ -46,3 +46,16 @@
 В открытой программе нажми «New»:
 
 ![alt-SSSs2](https://i.imgur.com/hLweTHK.png "MariaDB")
+
+В разделе «Settings» укажи следующие параметры:
+
+| Параметр      | Значение                 |
+| ------------- |:------------------------:|
+| Network type  | MariaDB or MySQL (TCP/IP)|
+| Library       | libmariadb.dll           |
+| Hostname / IP | 127.0.0.1                |
+| User          | root                     |
+| Password      |                          |
+| Port          | 3306                     |
+
+![alt-SSSs3](https://i.imgur.com/UXceS9S.png "MariaDB")
